@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606483772980",
+    "firebase_url": "https://chatapp-d48da-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-d48da",
+    "storage_bucket": "chatapp-d48da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606483772980:android:87395a5172b378f3ae3c61",
+        "android_client_info": {
+          "package_name": "com.rahul.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606483772980-8a84ho7fkcko195jgts6paskrjv5ctp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqi0QFdkKaQQPw_nx2JZ-nWAQtqjQMGGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606483772980-8a84ho7fkcko195jgts6paskrjv5ctp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
